@@ -16,6 +16,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F249871E24B06DD2005BE3E7 /* video1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video1.mp4; sourceTree = "<group>"; };
+		F249871F24B06DD2005BE3E7 /* video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video2.mp4; sourceTree = "<group>"; };
+		F249872024B06DD2005BE3E7 /* video3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video3.mp4; sourceTree = "<group>"; };
+		F249872124B06DD2005BE3E7 /* video4.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video4.mp4; sourceTree = "<group>"; };
+		F249872224B06DD2005BE3E7 /* video5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video5.mp4; sourceTree = "<group>"; };
 		F2541DEA24AF4C5E00D4F88F /* DemoTikTok.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoTikTok.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2541DED24AF4C5E00D4F88F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2541DEF24AF4C5E00D4F88F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +64,11 @@
 				F2541DED24AF4C5E00D4F88F /* AppDelegate.swift */,
 				F2541DEF24AF4C5E00D4F88F /* SceneDelegate.swift */,
 				F2541DF124AF4C5E00D4F88F /* ContentView.swift */,
+				F249871E24B06DD2005BE3E7 /* video1.mp4 */,
+				F249871F24B06DD2005BE3E7 /* video2.mp4 */,
+				F249872024B06DD2005BE3E7 /* video3.mp4 */,
+				F249872124B06DD2005BE3E7 /* video4.mp4 */,
+				F249872224B06DD2005BE3E7 /* video5.mp4 */,
 				F2541DF324AF4C5F00D4F88F /* Assets.xcassets */,
 				F2541DF824AF4C5F00D4F88F /* LaunchScreen.storyboard */,
 				F2541DFB24AF4C5F00D4F88F /* Info.plist */,
